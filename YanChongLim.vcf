@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Lim;Yan Chong;;;
+FN:Yan Chong Lim
+ORG:Time Emporium Pte Ltd
+TITLE:Customer Relations Associate
+TEL;TYPE=CELL,VOICE:+6584799744
+TEL;TYPE=WORK,VOICE:+6563125196
+EMAIL:custsvc.T3South@TimeEmporium.com
+URL:https://timeemporium.com
+ADR;TYPE=WORK:;;65 Airport Boulevard, Changi Airport;T3 Departure North, #02-51;;;819663;Singapore
+ADR;TYPE=WORK:;;65 Airport Boulevard, Changi Airport;T3 Departure South, #02-24;;;819663;Singapore
+ADR;TYPE=WORK:;;10 Airport Boulevard, Changi Airport;T4 Departure Transit Lounge, #02-27;;;819665;Singapore
+END:VCARD
